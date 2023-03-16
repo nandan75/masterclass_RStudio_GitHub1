@@ -1,0 +1,45 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  navbar:
+    background: primary
+    left:
+      - href: setup.html
+      - text: "Set-up"
+        menu:
+        - text: "Register a free GitHub account"
+          href: notebooks/Register_for_github_account.html
+        - text: "Install git"
+          href: notebooks/Install_git.html
+        - text: "Setup git credentials"
+          href: notebooks/Connections.html 
+        - text: "Install/update R and RStudio"
+          href: notebooks/Install_or_update_R_RStudio.html  
+      - text: "Git for version control"
+        menu:
+        - text: "Presentation"
+          href: "https://unisyd.sharepoint.com/:p:/r/teams/SydneyInformaticsHub2/_layouts/15/Doc.aspx?sourcedoc=%7BA2B9FBEB-02BA-4410-A516-A4B81F449F29%7D&file=Rstudio%20and%20github.pptx&action=edit&mobileredirect=true"
+        - text: "Check prerequisites"
+          href: notebooks/On_the_day_check_prerequisites.html
+        - text: "Create a test repo in github"
+          href: notebooks/On_the_day_create_a_test_repo.html
+        - text: "Clone the test repo to your computer using RStudio"
+          href: notebooks/On_the_day_clone_the_repo_using_RStudio.html
+        - text: "Create a Rmarkdown file locally and push changes to github using RStudio"
+          href: notebooks/On_the_day_create_Rmarkdown_make_commit_changes_using_RStudio.html
+      
+  body-footer: "All materials copyright Sydney Informatics Hub, University of Sydney"
+          
+format:
+  html:
+    theme: simplex
+    css: lesson.css
+    toc: true
+    code-overflow: wrap
+    highlight-style: github
+
+
+
+
