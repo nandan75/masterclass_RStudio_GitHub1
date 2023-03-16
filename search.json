@@ -1,0 +1,142 @@
+[
+  {
+    "objectID": "CHEATSHEET.html",
+    "href": "CHEATSHEET.html",
+    "title": "",
+    "section": "",
+    "text": "All materials copyright Sydney Informatics Hub, University of Sydney"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Version control using RStudio and github",
+    "section": "",
+    "text": "This masterclass is about using GitHub as a backup and version control​ tool when specifically working with Rmarkdown (.Rmd) files. We have briefly discussed R, RStudio, git , what is version control and why using git for backup and version control is a good idea.\nThe following points will be discussed during the course of the master-class\nAll materials copyright Sydney Informatics Hub, University of Sydney"
+  },
+  {
+    "objectID": "index.html#target-audience",
+    "href": "index.html#target-audience",
+    "title": "Version control using RStudio and github",
+    "section": "Target audience",
+    "text": "Target audience\nThis masterclass is suitable for people who use R for data analysis and are keen to gain a basic understanding of how to use RStudio in backing up a project containing Rmarkdown files on a github server."
+  },
+  {
+    "objectID": "index.html#how-to-navigate-the-webpages",
+    "href": "index.html#how-to-navigate-the-webpages",
+    "title": "Version control using RStudio and github",
+    "section": "How to navigate the webpages",
+    "text": "How to navigate the webpages\n\nPlease use the Menu bar to move between lessons. The submenus from main menu option Setup can be used to install the pre-requisites.\n\nThe topics under the menu Git for version control touch on the individual steps which we will follow in todays code-along session.\nEach main menu header has sub-header which will be visible when you click on the main-menu, as shown below."
+  },
+  {
+    "objectID": "index.html#follow-on-courses",
+    "href": "index.html#follow-on-courses",
+    "title": "Version control using RStudio and github",
+    "section": "Follow-on courses",
+    "text": "Follow-on courses"
+  },
+  {
+    "objectID": "index.html#course-survey",
+    "href": "index.html#course-survey",
+    "title": "Version control using RStudio and github",
+    "section": "Course survey!",
+    "text": "Course survey!\nPlease fill out our course survey before you leave! Help us help you!"
+  },
+  {
+    "objectID": "index.html#credits",
+    "href": "index.html#credits",
+    "title": "Version control using RStudio and github",
+    "section": "Credits",
+    "text": "Credits\nThis masterclass is developed by the Sydney Informatics Hub, University of Sydney."
+  },
+  {
+    "objectID": "setup.html",
+    "href": "setup.html",
+    "title": "Setup",
+    "section": "",
+    "text": "All materials copyright Sydney Informatics Hub, University of Sydney"
+  },
+  {
+    "objectID": "notebooks/Install_or_update_R_RStudio.html",
+    "href": "notebooks/Install_or_update_R_RStudio.html",
+    "title": "",
+    "section": "",
+    "text": "All materials copyright Sydney Informatics Hub, University of Sydney"
+  },
+  {
+    "objectID": "notebooks/On_the_day_create_Rmarkdown_make_commit_changes_using_RStudio.html",
+    "href": "notebooks/On_the_day_create_Rmarkdown_make_commit_changes_using_RStudio.html",
+    "title": "",
+    "section": "",
+    "text": "All materials copyright Sydney Informatics Hub, University of Sydney"
+  },
+  {
+    "objectID": "notebooks/On_the_day_clone_the_repo_using_RStudio.html",
+    "href": "notebooks/On_the_day_clone_the_repo_using_RStudio.html",
+    "title": "",
+    "section": "",
+    "text": "All materials copyright Sydney Informatics Hub, University of Sydney"
+  },
+  {
+    "objectID": "notebooks/On_the_day_create_a_test_repo.html",
+    "href": "notebooks/On_the_day_create_a_test_repo.html",
+    "title": "",
+    "section": "",
+    "text": "All materials copyright Sydney Informatics Hub, University of Sydney"
+  },
+  {
+    "objectID": "notebooks/Register_for_github_account.html",
+    "href": "notebooks/Register_for_github_account.html",
+    "title": "",
+    "section": "",
+    "text": "All materials copyright Sydney Informatics Hub, University of Sydney"
+  },
+  {
+    "objectID": "notebooks/01b_exampleRcontent.html",
+    "href": "notebooks/01b_exampleRcontent.html",
+    "title": "",
+    "section": "",
+    "text": "All materials copyright Sydney Informatics Hub, University of Sydney"
+  },
+  {
+    "objectID": "notebooks/On_the_day_check_prerequisites.html",
+    "href": "notebooks/On_the_day_check_prerequisites.html",
+    "title": "",
+    "section": "",
+    "text": "All materials copyright Sydney Informatics Hub, University of Sydney"
+  },
+  {
+    "objectID": "notebooks/Install_git.html",
+    "href": "notebooks/Install_git.html",
+    "title": "",
+    "section": "",
+    "text": "All materials copyright Sydney Informatics Hub, University of Sydney"
+  },
+  {
+    "objectID": "notebooks/1.0_Learning_objectives.html",
+    "href": "notebooks/1.0_Learning_objectives.html",
+    "title": "",
+    "section": "",
+    "text": "All materials copyright Sydney Informatics Hub, University of Sydney"
+  },
+  {
+    "objectID": "notebooks/about.html",
+    "href": "notebooks/about.html",
+    "title": "",
+    "section": "",
+    "text": "All materials copyright Sydney Informatics Hub, University of Sydney"
+  },
+  {
+    "objectID": "notebooks/Connections.html",
+    "href": "notebooks/Connections.html",
+    "title": "",
+    "section": "",
+    "text": "All materials copyright Sydney Informatics Hub, University of Sydney"
+  },
+  {
+    "objectID": "notebooks/Running_nfcore-rnaseq_command_details.html",
+    "href": "notebooks/Running_nfcore-rnaseq_command_details.html",
+    "title": "",
+    "section": "",
+    "text": "All materials copyright Sydney Informatics Hub, University of Sydney"
+  }
+]
